@@ -1,5 +1,9 @@
 # dystopia
 
+## Prerequisites
+
+- qemu
+
 ## Setup Instructions
 
 ### 1. Download Required Files
